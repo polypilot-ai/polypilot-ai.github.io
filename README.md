@@ -14,6 +14,7 @@ Static, versioned assets and mini‑sites served via **GitHub Pages** for the Po
 /brand/               - logos, press kit (public)
   index.html
 /email-signature/     - 24px PNG icons + logo for email signatures
+  index.html
 index.html            - landing page for the org site
 .nojekyll             - bypasses Jekyll; serve raw static files
 ```
